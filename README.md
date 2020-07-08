@@ -1,4 +1,14 @@
+
+#Quote a Day
+This project will feature a calculator-like application with no math functions. Instead, when a user clicks a button (Sunday-Saturday), a quote relating to that day will pop up. Lists labeled 'sunday_quotes'through 'saturday_quotes' will be called on when its corresponding button is pressed. A while loop will cause the next line in the string to appear until there are no more lines. At the point of no more lines, the seek will return to 0.
+The calculator will be larger than the average calculator given its long output.
+
+Edited by Alexis Yampierre
+
+
 # Python Teaching Code
+
+
 This repo contains a variety of starter project code and demo code for showing different capabilities and how to use them in Python.
 
 Begin by forking this repository to your own Github account. Next, you can clone it to your machine and run the examples and customize the code.
